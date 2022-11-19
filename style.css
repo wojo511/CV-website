@@ -183,6 +183,7 @@ text-align: center;
     border: 2px solid #007ced;
     background-color: #007ced;
     color: white;
+    fill: white;
 }
 
 .download-github-link:active {
@@ -193,6 +194,7 @@ text-align: center;
     border: 2px solid #007ced;
     background-color: #007ced;
     color: white;
+    fill: white;
 }
 
 .download-github-link {
