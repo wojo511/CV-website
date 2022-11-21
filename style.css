@@ -40,6 +40,7 @@ span {
 
 
 ul li {
+
     margin-bottom: 20px;
 }
 
@@ -60,13 +61,14 @@ ul li {
 }
 
 header address ul {
+    padding: 0;
     font-style: normal;
-    list-style: none;
+    list-style: none;width: 250px;
+
 }
 
 .address-line-item {
     font-size: 16px;
-    margin-left: -98px;
     margin-bottom: 15px;
 }
 
